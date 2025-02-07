@@ -2,9 +2,10 @@
 Collection of my implementation of basics concepts from papers discussed in the course CSC2539: Physics-Informed Neural Representations for Visual Computing at the University of Toronto (Winter 2025).
 --
 ## Table of Contents
-Week 1: Physics-Informed Neural Networks (PINNs)
-Introduction to PDEs, Nonlinear PDEs, and Finite Difference Numerical Solvers
-Damped Spring Simulation and PINN Reconstruction
+
+| Week | Topic | Directory |
+| --- | --- | --- |
+| 1 | [Physics-Informed Neural Networks (PINNs)](#week-1-physics-informed-neural-networks-pinns) | [Link](/wk1-pinn) |
 
 ## Week 1: Physics-Informed Neural Networks (PINNs)
 
