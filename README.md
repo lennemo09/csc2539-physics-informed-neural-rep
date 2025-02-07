@@ -12,6 +12,7 @@ Damped Spring Simulation and PINN Reconstruction
 In this notebook, we introduce partial differential equations (PDEs), discuss the difference between linear and nonlinear PDEs, and learn about finite difference methods for numerically solving PDEs. We implement and visualize solutions for two examples:
 - The Heat Equation (a linear PDE).
 - Burgers' Equation (a canonical nonlinear PDE), a fundamental nonlinear partial differential equation used in fluid mechanics and nonlinear wave propagation.
+
 You can find the notebook [here](/wk1-pinn/pde.ipynb).
 
 ### PINN for Burger's Equation
