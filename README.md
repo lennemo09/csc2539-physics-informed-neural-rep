@@ -1,6 +1,9 @@
 # csc2539-physics-informed-neural-rep
 Collection of my implementation of basics concepts from papers discussed in the course CSC2539: Physics-Informed Neural Representations for Visual Computing at the University of Toronto (Winter 2025).
 --
+
+**Note:** The comments and function docs are generated with Copilot with the purpose of helping readability and easy of understanding for beginners. If you spot something confusing/ambiguous that needs clarification with a comment, or an incorrect comment/docstring, please let me know!
+
 ## Table of Contents
 
 | Week | Topic | Directory |
